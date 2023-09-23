@@ -4,7 +4,7 @@
 
 ## Key Features 🚀
 
-- Task List Creation: Non-logged-in users can create task lists, but they won't be saved. Logged-in users can create persistent task lists.
+- Task List Creation: Non-logged-in users can create task lists, but they we'll associated to the current Browser. Logged-in users can create persistent task lists.
 
 - Task List Sharing: Logged-in users can invite others to join their task lists using two methods:
     - Invite Known Users: You can invite users you know by using their username or email address.
